@@ -15,6 +15,7 @@
 		231D58BE2545F26300F32BA0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 231D58BC2545F26300F32BA0 /* LaunchScreen.storyboard */; };
 		231D58C82545F45000F32BA0 /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 231D58C72545F45000F32BA0 /* MainViewController.swift */; };
 		232546552548977B00D3BAFA /* PlaceModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 232546542548977B00D3BAFA /* PlaceModel.swift */; };
+		239F3DC02549F395007DF64A /* NewPlaceViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 239F3DBF2549F395007DF64A /* NewPlaceViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		231D58BF2545F26300F32BA0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		231D58C72545F45000F32BA0 /* MainViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
 		232546542548977B00D3BAFA /* PlaceModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlaceModel.swift; sourceTree = "<group>"; };
+		239F3DBF2549F395007DF64A /* NewPlaceViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewPlaceViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				231D58B32545F26200F32BA0 /* SceneDelegate.swift */,
 				2308D1D025474EB80068E2B7 /* CustomTableViewCell.swift */,
 				231D58C72545F45000F32BA0 /* MainViewController.swift */,
+				239F3DBF2549F395007DF64A /* NewPlaceViewController.swift */,
 				231D58B72545F26200F32BA0 /* Main.storyboard */,
 				232546542548977B00D3BAFA /* PlaceModel.swift */,
 				231D58BA2545F26300F32BA0 /* Assets.xcassets */,
@@ -144,6 +147,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				231D58C82545F45000F32BA0 /* MainViewController.swift in Sources */,
+				239F3DC02549F395007DF64A /* NewPlaceViewController.swift in Sources */,
 				231D58B22545F26200F32BA0 /* AppDelegate.swift in Sources */,
 				232546552548977B00D3BAFA /* PlaceModel.swift in Sources */,
 				2308D1D125474EB80068E2B7 /* CustomTableViewCell.swift in Sources */,
